@@ -1,6 +1,10 @@
+// 变量 ID , UUIID, TXT, PROXYIP, SOCKS5
+// 我的优选TXT可以处理多个格式 
+// https://...txt,https://...txt
+
 import { connect } from 'cloudflare:sockets';
 let 哎呀呀这是我的ID啊 = "";
-let 哎呀呀这是我的VL密钥 = "";
+let 哎呀呀这是我的VL密钥 = "8b508ee2-a0aa-4234-820b-065369cd9fc3";
 let 私钥开关 = false;
 let 咦这是我的私钥哎 = "";
 let 隐藏订阅 = false;
